@@ -1,6 +1,6 @@
 # Adguard Home For Android模块
 
-本项目是基于 [Adguard-Home-For-Magisk-Mod](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod) 的修改分支。
+本项目基于 [Adguard-Home-For-Magisk-Mod](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod) 进行修改。
 
 ## 📌 项目简介
 
