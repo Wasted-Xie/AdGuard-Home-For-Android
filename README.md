@@ -20,5 +20,6 @@
 ## 🙏鸣谢项目
 
 [Adguard-Home-For-Magisk-Mod](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod)
+
 [AdguardHome](https://github.com/AdguardTeam/AdguardHome)
 
