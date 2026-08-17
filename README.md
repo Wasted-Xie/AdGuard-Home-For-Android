@@ -17,7 +17,7 @@
 
 若您担心规则丢失，请在刷入模块前自行备份ifw（虽然我自己安装是没有删除ifw，但不保证你们安装时不会删，因为我压根就看不懂shell的语法）
 
-\##🙏鸣谢项目
+##🙏鸣谢项目
 
 [Adguard-Home-For-Magisk-Mod](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod)
 [AdguardHome](https://github.com/AdguardTeam/AdguardHome)
