@@ -1,0 +1,10 @@
+# 注：以下修改后必须重启生效
+# AdGuardHome 运行用户和用户组
+adg_user="root"
+adg_group="net_raw"
+
+# AdGuardHome DNS 重定向端口
+redir_port=5591
+
+# 代理订阅链接（在引号内填入你的订阅）
+PROXY_URL=" "
